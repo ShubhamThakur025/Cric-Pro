@@ -1,4 +1,4 @@
-//FUnction defined for the
+//Function defined for the PopUP
 function popup(index){
     let elem = document.getElementsByClassName('VS')
     elem[index].style.display= 'flex';
